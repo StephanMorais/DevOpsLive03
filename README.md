@@ -1,4 +1,5 @@
 # DevOpsLive03
-Lua Negra
-Cães de Caça
-Possuida
+Lua Negra<br>
+Van Helsing<br>
+Possuida<br>
+Um lobisomem americano em paris<br>
